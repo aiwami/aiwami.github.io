@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-03-11T17:00:00-07:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>2014 Women's Day</title>
+    <link rel="alternate" href="http://blog.url.com/2014/03/12/womens-day.html"/>
+    <id>http://blog.url.com/2014/03/12/womens-day.html</id>
+    <published>2014-03-11T17:00:00-07:00</published>
+    <updated>2014-05-21T21:04:42-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="image"&gt;
+  &lt;img src="images/iwd_2014.jpg" /&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
