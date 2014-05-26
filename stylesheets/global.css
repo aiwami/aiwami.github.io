@@ -356,5 +356,13 @@ section.homepage {
   section.homepage:last-child {
     margin-right: 0; }
   /* line 35, /Users/adarsh/dev/personal/aiwa/source/stylesheets/global.css.scss */
+  section.homepage div.segments {
+    padding: 2em 0 2em 0;
+    border-bottom: 1px solid #dddddd; }
+  /* line 40, /Users/adarsh/dev/personal/aiwa/source/stylesheets/global.css.scss */
   section.homepage h2 {
-    padding-bottom: 1em; }
+    padding-bottom: 0.6em; }
+
+/* line 45, /Users/adarsh/dev/personal/aiwa/source/stylesheets/global.css.scss */
+div.paypal-donation-button {
+  padding-top: 2em; }
