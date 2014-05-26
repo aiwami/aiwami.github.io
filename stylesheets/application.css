@@ -463,13 +463,14 @@ section.about-page {
     margin-bottom: 3em; }
     /* line 13, /Users/adarsh/dev/personal/aiwa/source/stylesheets/static_pages.css.scss */
     section.about-page .address h4 {
-      text-align: center; }
-  /* line 18, /Users/adarsh/dev/personal/aiwa/source/stylesheets/static_pages.css.scss */
+      text-align: center;
+      padding: 0; }
+  /* line 19, /Users/adarsh/dev/personal/aiwa/source/stylesheets/static_pages.css.scss */
   section.about-page .contact-info {
     margin-top: 3em;
     margin-bottom: 3em;
     text-align: center; }
-  /* line 24, /Users/adarsh/dev/personal/aiwa/source/stylesheets/static_pages.css.scss */
+  /* line 25, /Users/adarsh/dev/personal/aiwa/source/stylesheets/static_pages.css.scss */
   section.about-page h6 {
     padding: 2em 0 1em 0; }
 
