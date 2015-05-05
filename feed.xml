@@ -11,14 +11,16 @@
   </author>
   <entry>
     <title>Kaajal Oza Vaida Talk Show</title>
-    <link rel="alternate" href="http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show/"/>
-    <id>http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show/</id>
+    <link rel="alternate" href="http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show.html/"/>
+    <id>http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show.html/</id>
     <published>2015-05-05T10:08:00-07:00</published>
-    <updated>2015-05-05T10:12:46-07:00</updated>
+    <updated>2015-05-05T10:14:59-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img alt="kajal oza flyer" src="images/2015_07_11_kajal_oza_save_the_date.jpg" /&gt;&lt;/p&gt;
+    <content type="html">&lt;div class="image"&gt;
+  &lt;img src="images/2015_07_11_kajal_oza_save_the_date.jpg" /&gt;
+&lt;/div&gt;
 </content>
   </entry>
   <entry>
