@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-05-05T10:08:00-07:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Kaajal Oza Vaida Talk Show</title>
+    <link rel="alternate" href="http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show/"/>
+    <id>http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show/</id>
+    <published>2015-05-05T10:08:00-07:00</published>
+    <updated>2015-05-05T10:11:58-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="kajal oza flyer" src="images/2015_07_11_kajal_oza_save_the_date.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Senior Meeting on Independent Living Facility</title>
+    <link rel="alternate" href="http://blog.url.com/2014/06/30/senior_meeting/"/>
+    <id>http://blog.url.com/2014/06/30/senior_meeting/</id>
+    <published>2014-06-29T20:28:00-07:00</published>
+    <updated>2015-05-05T10:00:02-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h6&gt;
+  Asian Indian Women’s Association (AIWA) presents
+&lt;/h6&gt;
+
+&lt;h2&gt;
+  An Exploratory Meeting for Senior Independent Living Facility in Michigan
+&lt;/h2&gt;
+
+&lt;h3&gt;
+  With:
+  Mr. Iggy Ignatius
+  President of ShantiNiketan, Inc.
+&lt;/h3&gt;
+
+&lt;p&gt;
+  &lt;h5&gt;
+    Where:
+  &lt;/h5&gt;
+  Lawrence Tech University&lt;/br&gt;
+  21000 West Ten Mile Road&lt;/br&gt;
+  Southfield, MI 48075-1058&lt;/br&gt;
+  &lt;a href="http://mapq.st/1yLQphy"&gt;Click Here for Directions&lt;/a&gt;&lt;/br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h5&gt;When:&lt;/h5&gt;
+  July 20, 2014 from 2:00 PM to 6:00 PM&lt;/br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h5&gt;Cost:&lt;/h5&gt;
+  $15.00 per person - Non Member&lt;/br&gt;
+  $10.00 per person for member and member’s spouse&lt;/br&gt;
+  RSVP: By July 15th, 2014&lt;/br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  Light dinner will be served.
+&lt;/p&gt;
+
+&lt;p&gt;
+  No walk-ins allowed please.
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h5&gt;
+    Contact:
+  &lt;/h5&gt;
+  For further info please call Daksha Pandit at 734-459-5089&lt;/br&gt;
+  Kalpana Chokshi at 734-972-7351 or 734-591-7829&lt;/br&gt;
+  Please make checks payable to Asian Indian Women’s Association&lt;/br&gt;
+  Mail your check to: AIWA, 10946 Fellows Hill Dr. Plymouth, MI 48170&lt;/br&gt;
+&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Family Picnic</title>
+    <link rel="alternate" href="http://blog.url.com/2014/05/13/picnic/"/>
+    <id>http://blog.url.com/2014/05/13/picnic/</id>
+    <published>2014-05-12T17:00:00-07:00</published>
+    <updated>2015-05-05T10:00:02-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="post-wrap"&gt;
+  &lt;p&gt;
+    &lt;h2&gt;
+      
+    &lt;/h2&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;Family Picnic on Sunday July 13, 2014&lt;/p&gt;
+  &lt;p&gt;Plymouth Township Park&lt;/p&gt;
+  &lt;p&gt;Plymouth, MI 48170&lt;/p&gt;
+  &lt;p&gt;2 PM to 8 PM&lt;/p&gt;
+
+  &lt;div class="image"&gt;
+    &lt;img src="images/picnic_2014.jpg" /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2014 Women's Day</title>
+    <link rel="alternate" href="http://blog.url.com/2014/03/12/womens-day/"/>
+    <id>http://blog.url.com/2014/03/12/womens-day/</id>
+    <published>2014-03-11T17:00:00-07:00</published>
+    <updated>2015-05-05T10:00:02-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="image"&gt;
+  &lt;img src="images/iwd_2014.jpg" /&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
