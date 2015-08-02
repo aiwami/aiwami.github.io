@@ -643,9 +643,9 @@ body {
   display: block;
   margin-right: 2.35765%;
   width: 100%;
-  -webkit-transition: all 0.2s linear;
-  -moz-transition: all 0.2s linear;
-  transition: all 0.2s linear;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
   margin-bottom: 2em;
   padding: 2em; }
   /* line 15, /Users/adarsh/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bourbon-4.0.2/app/assets/stylesheets/addons/_clearfix.scss */
@@ -658,7 +658,7 @@ body {
     margin-right: 0; }
   /* line 8, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
   .post-wrap:hover {
-    background: #f7f7f7; }
+    background: #eaeaea; }
   /* line 12, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
   .post-wrap .post-title {
     font-size: 2em;
@@ -682,18 +682,27 @@ body {
   .post-body p {
     margin: 1em 0; }
   /* line 39, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
+  .post-body img {
+    max-width: 60%; }
+  /* line 43, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
   .post-body .image {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 57.35098%;
-    border-radius: 5px; }
+    border-radius: 5px;
+    max-width: 50%; }
     /* line 38, /Users/adarsh/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_span-columns.scss */
     .post-body .image:last-child {
       margin-right: 0; }
-    /* line 43, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
+    /* line 48, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
     .post-body .image img {
       width: 100%; }
+
+/* line 54, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_posts.css.scss */
+.featured-post-wrap {
+  text-align: center;
+  background: #D7BD8A; }
 
 /* line 1, /Users/adarsh/dev/aiwa/source/stylesheets/shared/_navigation.css.scss */
 nav {

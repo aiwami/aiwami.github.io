@@ -5,10 +5,50 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-05-05T10:08:00-07:00</updated>
+  <updated>2015-08-01T17:07:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>AIWAMI Fourth Annual Leadership Summit - GPS for Cultural Navigation</title>
+    <link rel="alternate" href="http://blog.url.com/2015/08/02/gps-for-cultural-navigation/"/>
+    <id>http://blog.url.com/2015/08/02/gps-for-cultural-navigation/</id>
+    <published>2015-08-01T17:07:00-07:00</published>
+    <updated>2015-08-01T17:42:26-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="GPS For Cultural Navigation" src="images/2015_08_02_gps_for_cultural_navigation.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="2015_08_02_gps_for_cultural_navigation.pdf"&gt;click for PDF&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id="tickets"&gt;Tickets&lt;/h3&gt;
+
+&lt;form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+  &lt;input type="hidden" name="cmd" value="_s-xclick" /&gt;
+  &lt;input type="hidden" name="hosted_button_id" value="TBUU8Q39HJR8S" /&gt;
+
+  &lt;table&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;input type="hidden" name="on0" value="Event Tickets" /&gt;Purchase Tickets Here:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name="os0"&gt;
+    &lt;option value="Adults"&gt;Adults $20.00 USD&lt;/option&gt;
+    &lt;option value="Children"&gt;Children $10.00 USD&lt;/option&gt;
+  &lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+
+  &lt;input type="hidden" name="currency_code" value="USD" /&gt;
+  &lt;input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" /&gt;
+  &lt;img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /&gt;
+&lt;/form&gt;
+
+&lt;h3 id="for-more-information-call"&gt;For more information, call&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Usha Kapila (734) 397-1814
+Niru Bajaria (313) 277-5692
+Bharti Bhavsar (734) 459-1336
+&lt;/code&gt;&lt;/pre&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Kaajal Oza Vaida Talk Show</title>
     <link rel="alternate" href="http://blog.url.com/2015/05/05/kaajal_oza_vaida_talk_show.html/"/>
