@@ -5,16 +5,34 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-03-23T17:00:00-07:00</updated>
+  <updated>2016-05-30T17:00:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Understanding Your Life Plan</title>
+    <link rel="alternate" href="http://blog.url.com/2016/05/31/financial_planning/"/>
+    <id>http://blog.url.com/2016/05/31/financial_planning/</id>
+    <published>2016-05-30T17:00:00-07:00</published>
+    <updated>2016-05-30T22:31:11-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div&gt;
+  In May of 2016, we were treated to a financial planning seminar by Bhrugang Patel. Below is a link to his slides.
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;a href="images/the_big_picture_aiwa_04302016a.pptx"&gt;Slides from Financial Planning Presentation&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>2016 Women's Day</title>
     <link rel="alternate" href="http://blog.url.com/2016/03/24/womens_day/"/>
     <id>http://blog.url.com/2016/03/24/womens_day/</id>
     <published>2016-03-23T17:00:00-07:00</published>
-    <updated>2016-03-23T21:33:07-07:00</updated>
+    <updated>2016-05-30T22:31:11-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -144,20 +162,6 @@ Bharti Bhavsar (734) 459-1336
   &lt;div class="image"&gt;
     &lt;img src="images/picnic_2014.jpg" /&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>2014 Women's Day</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/12/womens-day/"/>
-    <id>http://blog.url.com/2014/03/12/womens-day/</id>
-    <published>2014-03-11T17:00:00-07:00</published>
-    <updated>2015-05-05T10:00:02-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="image"&gt;
-  &lt;img src="images/iwd_2014.jpg" /&gt;
 &lt;/div&gt;
 </content>
   </entry>
