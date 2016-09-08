@@ -5,16 +5,55 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-05-30T17:00:00-07:00</updated>
+  <updated>2016-09-08T10:40:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Yoni Ki Baat</title>
+    <link rel="alternate" href="http://blog.url.com/2016/09/08/yoni_ki_baat/"/>
+    <id>http://blog.url.com/2016/09/08/yoni_ki_baat/</id>
+    <published>2016-09-08T10:40:00-07:00</published>
+    <updated>2016-09-08T10:52:46-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;a href="yoni-ki-baat.jpg"&gt;  &lt;img src="images/yoni-ki-baat.jpg" /&gt;
+&lt;/a&gt;
+&lt;h2&gt; Agenda for the event: &lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5:30 p.m. - Welcome/ Documentary&lt;/li&gt;
+&lt;li&gt;5:45 p.m. - 7:15 p.m. - YKB story (with dance)&lt;/li&gt;
+&lt;li&gt;7:15 p.m. - 8:00 p.m. - Anisha Dhurve talk&lt;/li&gt;
+&lt;li&gt;8:00 p.m. - Distribute Food bags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt; Description: &lt;/h2&gt;
+&lt;p&gt;
+  Mai Family Services has completed its 30 years supporting individuals and families in abuse and crisis situations. A lot of work needs to happen in this space and as a partner organization, our collaboration from time to time handling specific requests has been tremendous. Thank you for all your support.
+&lt;/p&gt;
+
+&lt;p&gt;
+  In an unique collaboration, Mai Family Services has partnered with Asian Indian Women's Association (AIWA) in addressing issues that have decimated the very ecosystem we live in. Welcome to Yoni Ki Baat on September 24th at VistaTech Center (Schoolcraft College), in Livonia at 5:30 p.m. 
+&lt;/p&gt;
+
+Domestic Violence and abuse occurs anytime to anyone. This requires consistent awareness among individuals and families as the entire ecosystem begins to fall apart. Mai Family Services is committed in spreading the awareness about DV and Mental Health and our upcoming event brings together real stories from real people. The travelogue contains ten stories – some of them narrated by DV survivors followed by an inspiring talk by Anisha Durve, a domestic abuse survivor who has launched her book “Power to Break Free”. The entire event will be in English. Admission is Free. We suggest individuals register for the event owing to the capacity of the auditorium. Registration details at www.maifs.org
+
+Details for the event are on the flyer.
+
+Please help us in spreading the word within your community. Once again, thank you for your partnership.
+
+With best regards
+Anu
+</content>
+  </entry>
   <entry>
     <title>Understanding Your Life Plan</title>
     <link rel="alternate" href="http://blog.url.com/2016/05/31/financial_planning/"/>
     <id>http://blog.url.com/2016/05/31/financial_planning/</id>
     <published>2016-05-30T17:00:00-07:00</published>
-    <updated>2016-05-30T22:31:11-07:00</updated>
+    <updated>2016-09-08T10:52:46-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -136,33 +175,6 @@ Bharti Bhavsar (734) 459-1336
   Please make checks payable to Asian Indian Women’s Association&lt;/br&gt;
   Mail your check to: AIWA, 10946 Fellows Hill Dr. Plymouth, MI 48170&lt;/br&gt;
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Family Picnic</title>
-    <link rel="alternate" href="http://blog.url.com/2014/05/13/picnic/"/>
-    <id>http://blog.url.com/2014/05/13/picnic/</id>
-    <published>2014-05-12T17:00:00-07:00</published>
-    <updated>2015-05-05T10:00:02-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="post-wrap"&gt;
-  &lt;p&gt;
-    &lt;h2&gt;
-      
-    &lt;/h2&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;Family Picnic on Sunday July 13, 2014&lt;/p&gt;
-  &lt;p&gt;Plymouth Township Park&lt;/p&gt;
-  &lt;p&gt;Plymouth, MI 48170&lt;/p&gt;
-  &lt;p&gt;2 PM to 8 PM&lt;/p&gt;
-
-  &lt;div class="image"&gt;
-    &lt;img src="images/picnic_2014.jpg" /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 </content>
   </entry>
 </feed>
